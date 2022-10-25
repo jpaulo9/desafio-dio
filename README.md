@@ -1,6 +1,6 @@
  #  😎 Desafio-Dio :collision:
  
- 🐺 **[João Paulo da Silva Araújo](linkedin.com/in/jpaulohdev97)**
+ 🐺 **[João Paulo da Silva Araújo](https://github.com/jpaulo9)**
  
  📘:mortar_board: **Bacharelado em Sistemas de Informação - Universidade Federal Rural da Amazônia**
  
