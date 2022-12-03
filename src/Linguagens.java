@@ -5,7 +5,7 @@ public class Linguagens {
     public static void main(String[] args) {
 
         //conjunto de linguagens
-        Set<LinguagemFavorita> hash = new HashSet<>(){
+        Set<LinguagemFavorita> hash = new HashSet<LinguagemFavorita>(){
             {
                 add(new LinguagemFavorita("Java", "1991", "Intellij"));
                 add(new LinguagemFavorita("Python", "1989", "PyCharm"));
@@ -13,7 +13,7 @@ public class Linguagens {
             }
         };
 
-        Set<LinguagemFavorita> ordConj = new LinkedHashSet<>(){
+        Set<LinguagemFavorita> ordConj = new LinkedHashSet<LinguagemFavorita>(){
             {
                 add(new LinguagemFavorita("Java", "1991", "Intellij"));
                 add(new LinguagemFavorita("Python", "1989", "PyCharm"));
